@@ -18,7 +18,7 @@
       </p>
     </td>
     <td width="200px" height="100%">
-      <img src="https://res.cloudinary.com/d-a-r-k-c-o-d-e/image/upload/v1659803750/me_shoxxo.jpg" alt="webDevTolu"/>
+      <img src="https://res.cloudinary.com/d-a-r-k-c-o-d-e/image/upload/v1659805428/me_abdur5.png" alt="webDevTolu"/>
     </td>
   </tr>
 </table>
