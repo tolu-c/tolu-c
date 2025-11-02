@@ -10,8 +10,7 @@
     <td valign="center">
       <p>
         👀 &nbsp;A techie who is eager to learn and interested about how things function.<br/>
-        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
-        🚀 &nbsp;Also codes with Python/Django Framework.<br/>
+        ✈️ &nbsp;Coding with React (TanStack & Next), NestJS, Golang.<br/>
         😁 &nbsp;My hobbies include watching movies, playing games (chess, asphalt), cooking beans (coding) and listening to music<br/>
         🙂 &nbsp;I have the following abilities: communication skills, patience, as well as a fantastic sense of humour, time management skills (still working on this one), debugging, and, most importantly, problem solving.<br/>
         🤝🏾 &nbsp;Follow my github to stay updated on my amazing projects.<br/>
